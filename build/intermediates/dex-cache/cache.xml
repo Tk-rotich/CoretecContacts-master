@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6d2f508d1a9fa0fbe1653595e484800c08afb42c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.1_deffb1ae77bdbc7f4febe9aee71ed582f73d39af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.1_adc42fc0812da558536a291889db4a9b1567e113\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e719de687ac45141de3dd613907860a495580af0">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.1_ccc0d78f5e4a21a930b795f4e9171bde2ba69a00\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.11.0_ebfa771c7f5145dd6fa555d30ca81c5728797633\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_288ae530b1bb3bb9a65e44c5c0dbef970789f7f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0979debb5b4d955ddc0e80bb192f4f00c2f91750">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.1_a16e531f07d88d11bb1b1fdd28b97b4e4369a659\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.1_cd2c89c78e6f3ffd53b209a763eea3051e7aedca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="def5530cb13311617fc8f962e2a90225bb6904e2">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.1_0a56fab7fb8f4f8e157843fd6689841d0ef5e968\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_29c731d4398395c53bd79e861c1863888038a0fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.1_c2c01ee23231734cab30bb13c54bc24714987ee7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77e2e4803396fa79009ace04d9be84184aafcc31">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.1_549c8333c934ed509352fdbf6ec6f91b7da2aeed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="152cba5ca28fd4a5191a8577a0fa96d61122041e">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.1_bdf6752f36ee6e5d3e4518645189a0e4c45f1ac3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bb417e9ac8645285342935679e75d371b58b62b">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.1_229331f2580f75e674104115fcb232581488285c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f2282b9fc24f24c69665032dede1bc7201cf006">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.1_d646eb4b06d3528d06e51c9eddd256494de7b1d0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="081ced8ab77e606b6743c27cfe93dc450447b046">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.1_a279bb108b9ddfbdfe45c8191eaa20e3a25e04ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_2235dfa3d173be11a3fd70d639a0737457d1bbc1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.1_f26b6bed53d1d24f50fb8b23a20b5698790ceac4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="36e2b438f9b0d68fb2482c8f389e249e32840cff">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.1_93b9db7dc901cebacdcb69837da7e6141fde5a8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_290393d1d453e03c32b7d19adffa96bfe7d1ebfd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="90eeba67a669f8fb24db0f821ef81703fe7a02bc">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.1_c696f455437722288d401f888675024273956729\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c09228ff931eb30b68dd27fe34ed90d978b6892">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.1_2cab2aaad0ae262126274afe3b6963823f9247c5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_e78dfd7f821cb1ce2b8bfc979809109c8223cc9e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_39dd9319b4df15c6b1de1a1a20f7b2740b637798\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-auth-0.4.3_2d2bfc28bae136a467df0492bfea5e8f612cd61c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_e62b051315463eff6c6ba9dfa6a4e8d789a0431c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_a6180113d8d8919f73936351ce5cd22a7ae1f0ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_b8942288ff12b418ae96ab4d7a579351cb042c47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.1_d800e60e2b03fa4e44576ebde2350c035267af6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_974628a80226bcb09b41bcce42de894fd49f0b5d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_6a42f837207a2a17b097759198a15737a95c74cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccc963cafe59ce185c49f47baff7eedcb8589bdf">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.1_7f51c4a3f20e03c9931667fe22a8254e63d59db6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_07c5b1bf01c4f1e538cb9c1fe4f1fd5342127f6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-0.4.3_ec337b99cdf28a65a71777273740e72940c5be6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b24c1a80d8ccaecee7b8b80209b4e273dc22b14d">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.1_5dd2fa8208410708e66664c2053d68aaed413c01\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.1_77b214eabc92c8b19f343a7b3bbb8e0de058c087\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428c9bac95b2f72921224e289553a04bea61cda5">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.1_3a9bec491b41c006fc4b252b1ae482d102fb7083\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_7559088ddb8144822e65eabe04eddc04122da2a6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.2.1_0d46ee5191531d225bd15d5911992432e8d0f26e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_a91c2b49a27b36c95e5219e21d887e6e653020c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.1_c0290133d410e30575982357d7a5ba3095a177cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0765979e802b1669c90dc36076559461d5eb6ad1">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.1_03c175af3b3e8187d64d6b698acffc133944a465\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.1_a877d181e63831040ae3ec4a14c176cbd1507858\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="310ef01419435979cc82847cf085799a8d00e7e9">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.1_0f56adebaab714328f47227b9ba494af8cb356a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_6f7b1b95620c08053d4a532dfaa45764c0837e09\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="89ab748a6c0ab6ac1d3671f2356d6181e8108bc5">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.1_428533ee5dc535e52c3434d0fa98564063fb3522\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f3b0ff905873c91ab64addba30cc1e77bed34c4d">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.1_9714550e1ba5b843efc22f13ed17f115de396aae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3196ce5ba914029f9934845b4584c9ec5c58c62a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.3_0fcd011c3c1c9f64e46cdbf05880b25915dee3d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_27bbea06f2d6c5e99dbacd5dcd18c5b8eee9d19c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4c2b01baa64ba25f8dbdf7f7f828bc5664dab55e">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.1_bc4e86005bd94884fb0bbb49e6e128213b8807ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_9fe8df984822060a8816d42a29483ed7bea7e3b5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_0a7ba34d2bdc780d923e32798e29c958d79fefab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_328512930405356518253b11c7d728ba47e2067e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_5b71423f11a413924bb8bfe3d695ce162b14c27d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1141496362c8876f0da4b645fbaf22c0a3618372">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.1_741c218a7df2ac85163415b16a8e7a7cdf9b35ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_3252e7aac5705e5a2b69bb9c3fea76a0345d0af1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.1_dc83d2ea127af481f24fd3e7a5027bdc8cc70f55\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b515e6e269bfe848f5b43ac09bce54d6617d4fd">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.1_816d803ff8a76eb0a19c4b1dac3e4242254f46da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b9c1d29c082c50f28b65a8ded32545b88f56a3c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a95950a1cb51f6a3008d500866e2a20214cc2b2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d064f813cd835f17853e39221b247cf6a997a2db">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.1_9d829798b7860345125ff9ff403d01697a9e2b15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="357a8702c49044417d4856861c8f435e7c74ef09">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.1_510101ace31a17ff25bb15258c368909bb87ee7d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.1_b3369c118cbdbfa9c4a526218218a353db9a8add\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dd1907a2e855eeb2be8aa3486f3d4d4f1c8b22af">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.1_83c545fc0f45cc3c2129f86038436710405b090c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_9dbe05a92c4115529a6d1ac9f5fb32e5eae7fa06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05a2710d284c03087013a667a324c9e2aba5bc91">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.1_b3d31260ab8404daf05d0dd5ece7b151a8cba175\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77bc6b88c6c468036c2a19c700ca8b3f041bf63c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_adc9807688a2ef9d91d0a37a3518548e8c625ca3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8aada8a0e9e9b3ecdda5e80f17c6a51a468e302a">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.1_26715bf9f01182c50758908fa2e013ec7f5d4b20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_d1b8fa584fc61dc93d517d41b3531dde352dd889\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_147b7e91075745fe554d50ccb3e8d5091003955f\classes.dex" />
+    </item>
+
+</items>

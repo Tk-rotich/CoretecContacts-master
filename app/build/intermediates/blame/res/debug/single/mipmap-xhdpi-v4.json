@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\twitter_icon.jpg",
+        "source": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\src\\main\\res\\mipmap-xhdpi\\twitter_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\sacco_icon.png",
+        "source": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\src\\main\\res\\mipmap-xhdpi\\sacco_icon.png"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "498687677877",
+    "firebase_url": "https://coretec-contacts.firebaseio.com",
+    "project_id": "coretec-contacts",
+    "storage_bucket": "coretec-contacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498687677877:android:3aafe78b57cf2e03",
+        "android_client_info": {
+          "package_name": "com.example.sammie.coreteccontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498687677877-v8qdar4eu5sctr3gdmcq7chbfs4e2hkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVQgKPnaiYnuU4EXj54gDi4qMiS3Qjy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

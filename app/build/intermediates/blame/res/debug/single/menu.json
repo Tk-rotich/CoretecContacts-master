@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_contacts_app.xml",
+        "source": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\src\\main\\res\\menu\\menu_contacts_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer_content.xml",
+        "source": "C:\\Users\\CORETEC\\AndroidStudioProjects\\CoretecContacts\\app\\src\\main\\res\\menu\\navigation_drawer_content.xml"
+    }
+]

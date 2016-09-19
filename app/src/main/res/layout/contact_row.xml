@@ -1,0 +1,13 @@
+<TextView
+    android:id="@+id/name"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:textColor="#000000"
+    android:textSize="25sp"
+    android:drawableRight="@mipmap/ic_launcher"
+    android:gravity="left|center"
+    android:padding="26sp"
+    android:text="Contacts"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="marquee" />

@@ -1,0 +1,177 @@
+-injars 'C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\CORETEC\AppData\Local\Android\Sdk\build-tools\23.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'C:\Users\CORETEC\AndroidStudioProjects\CoretecContacts\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.sammie.coreteccontacts.ContactsApp {
+    <init>();
+}
+
+-keep class com.example.sammie.coreteccontacts.SecondActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.AdActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaIntentReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.media.MediaNotificationService {
+    <init>();
+}
+
+-keep class com.google.android.gms.cast.framework.ReconnectionService {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.EmailHintContainerActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.RecoverPasswordActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.RegisterEmailActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.SignInNoPasswordActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.email.SignInActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.account_link.AccountLinkInitActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity {
+    <init>();
+}
+
+-keep class com.firebase.ui.auth.ui.ChooseAccountActivity {
+    <init>();
+}
+
+-keep class com.facebook.FacebookActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

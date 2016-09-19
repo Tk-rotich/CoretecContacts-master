@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sammie.coreteccontacts.AddContact"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sacco_name"
+        android:layout_marginTop="10dp"
+        android:hint="Name" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sacco_location"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:hint="Location" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/sacco_description"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.27"
+        android:background="@drawable/abc_ab_share_pack_mtrl_alpha"
+        android:layout_marginTop="10dp"
+        android:hint="Description" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sacco_number"
+        android:layout_gravity="center_horizontal"
+        android:hint="Contact number" />
+
+</LinearLayout>
